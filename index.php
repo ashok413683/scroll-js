@@ -41,16 +41,6 @@
   window.onload = function() {
    myFunction();
  }
- //  function myFunction() {
-// var foc= document.getElementById('icon');
-//  foc.onclick = function() {
-//  document.getElementById("demo");
-
-// }
-// }
-// window.onload = function() {
-//    myFunction();
-//  }
 </script>
 </head>
 <body>
